@@ -16,7 +16,7 @@ $ hugo new site [path]
 Clone this repository into `themes/` directory:
 ```bash
 $ cd [path]
-$ git clone https://github.com/vaga/hugo-theme-m10c.git themes/m10c
+$ git clone https://github.com/fengjx/hugo-theme-m10c.git themes/m10c
 ```
 
 Add this line  in the `config.toml` file:
